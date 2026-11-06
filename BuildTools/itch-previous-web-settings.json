@@ -1,0 +1,8 @@
+{
+  "width": 430,
+  "height": 932,
+  "template": "APPLICATION:Default",
+  "compression": "Brotli",
+  "fallback": false,
+  "development": false
+}

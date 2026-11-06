@@ -1,0 +1,3512 @@
+fileFormatVersion: 2
+guid: 382d150843199864491358e3ebc0426b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8704753159645220377
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_0
+  - first:
+      213: 778025760939293983
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_1
+  - first:
+      213: -5124234510258493052
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_2
+  - first:
+      213: 371500765793518441
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_3
+  - first:
+      213: 6070908970784672047
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_4
+  - first:
+      213: 4313784726671957960
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_5
+  - first:
+      213: 8608000770740849163
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_6
+  - first:
+      213: 6700816635052463745
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_7
+  - first:
+      213: 4957197052045482342
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_8
+  - first:
+      213: -9184745937523588027
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_9
+  - first:
+      213: 7429928689965358642
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_10
+  - first:
+      213: -6492773236950783889
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_11
+  - first:
+      213: 4068176834414058101
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_12
+  - first:
+      213: -2173107224638436609
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_13
+  - first:
+      213: 8551203182392325410
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_14
+  - first:
+      213: -4119133003854666129
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_15
+  - first:
+      213: -6298782240335926489
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_16
+  - first:
+      213: -2963304585059237799
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_17
+  - first:
+      213: 1080705913824768622
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_18
+  - first:
+      213: -7216533322240970878
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_19
+  - first:
+      213: -6164913128739675451
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_20
+  - first:
+      213: 3998998691718920651
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_21
+  - first:
+      213: 6659172987866199910
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_22
+  - first:
+      213: 7956660725894994794
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_23
+  - first:
+      213: -2804838699655812698
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_24
+  - first:
+      213: -7182792649032910452
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_25
+  - first:
+      213: 7264756756559706724
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_26
+  - first:
+      213: -7158504358613336983
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_27
+  - first:
+      213: 1976325256340518036
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_28
+  - first:
+      213: -2376691461357543755
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_29
+  - first:
+      213: -8906687065528739850
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_30
+  - first:
+      213: 6566989020819654102
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_31
+  - first:
+      213: 1316424783752276671
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_32
+  - first:
+      213: 9163773249758038385
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_33
+  - first:
+      213: 7804461139599440226
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_34
+  - first:
+      213: 5798591941645596252
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_35
+  - first:
+      213: -4267791297097306399
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_36
+  - first:
+      213: -6597464607561567197
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_37
+  - first:
+      213: -1402064775164844139
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_38
+  - first:
+      213: 6739159865793868224
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_39
+  - first:
+      213: -5029730509798454287
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_40
+  - first:
+      213: 142033810624426000
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_41
+  - first:
+      213: 5476809064096470162
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_42
+  - first:
+      213: 4450168666862748437
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_43
+  - first:
+      213: -8204394526729477617
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_44
+  - first:
+      213: 7144239805037844523
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_45
+  - first:
+      213: -3645693393410392245
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_46
+  - first:
+      213: 7092096148909360568
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_47
+  - first:
+      213: 4538405214644792320
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_48
+  - first:
+      213: 8107081855229984784
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_49
+  - first:
+      213: 4636984355658840949
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_50
+  - first:
+      213: -2104252212362384434
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_51
+  - first:
+      213: -3166963305374008558
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_52
+  - first:
+      213: 4643022237634849197
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_53
+  - first:
+      213: 7545122872985011242
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_54
+  - first:
+      213: -8297664879190963991
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_55
+  - first:
+      213: 2934061528875574562
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_56
+  - first:
+      213: -2843297921867339192
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_57
+  - first:
+      213: -2737905695987181187
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_58
+  - first:
+      213: 3348898731506999807
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_59
+  - first:
+      213: 6612350218118275960
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_60
+  - first:
+      213: -3406472043374839794
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_61
+  - first:
+      213: -2458046793762276530
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_62
+  - first:
+      213: 4202095067443137420
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_63
+  - first:
+      213: -8090604877082283629
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_64
+  - first:
+      213: -3878068924812893819
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_65
+  - first:
+      213: 8212489818579373514
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_66
+  - first:
+      213: -868082509986774328
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_67
+  - first:
+      213: 9015777848842133334
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_68
+  - first:
+      213: 2121319936542255165
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_69
+  - first:
+      213: -5293123116191873595
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_70
+  - first:
+      213: -5684601524932506738
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_71
+  - first:
+      213: -3479234318781541444
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_72
+  - first:
+      213: 9019826174318498943
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_73
+  - first:
+      213: 5237157652176065195
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_74
+  - first:
+      213: -1723694491287177684
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_75
+  - first:
+      213: 6357237042288365673
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_76
+  - first:
+      213: -8602869285521571934
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_77
+  - first:
+      213: -3985964399491735096
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_78
+  - first:
+      213: 6296833163929203646
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_79
+  - first:
+      213: 7034062229391358184
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_80
+  - first:
+      213: 8541524840149114521
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_81
+  - first:
+      213: 4006326497126422976
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_82
+  - first:
+      213: -7315578296652599823
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_83
+  - first:
+      213: 195959977759952664
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_84
+  - first:
+      213: 6259586583885165171
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_85
+  - first:
+      213: 1750879012333007774
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_86
+  - first:
+      213: 5354086732668572588
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_87
+  - first:
+      213: 1683313656816583640
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_88
+  - first:
+      213: -6708359148654621999
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_89
+  - first:
+      213: 7236242949403170315
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_90
+  - first:
+      213: -2758400969626500889
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_91
+  - first:
+      213: 1780899729337661158
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_92
+  - first:
+      213: -5785449308408332648
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_93
+  - first:
+      213: -5433857233563785771
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_94
+  - first:
+      213: -5319647310635860501
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_95
+  - first:
+      213: -6673661349144100313
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_96
+  - first:
+      213: -6448829551776693764
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_97
+  - first:
+      213: -467209093939019622
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_98
+  - first:
+      213: -333734500474702910
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_99
+  - first:
+      213: 432008824409123160
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_100
+  - first:
+      213: 5479435005356189116
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_101
+  - first:
+      213: 327036305155045051
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_102
+  - first:
+      213: 4409916115694111801
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_103
+  - first:
+      213: -4538995384474817165
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_104
+  - first:
+      213: -8929701071852412751
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_105
+  - first:
+      213: 4338003403922092537
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_106
+  - first:
+      213: 4165526487501798366
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_107
+  - first:
+      213: 5403118836484275382
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_108
+  - first:
+      213: -5219126841212671081
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_109
+  - first:
+      213: 4211802848167949458
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_110
+  - first:
+      213: -2092552976919121839
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_111
+  - first:
+      213: 3719674437818935723
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_112
+  - first:
+      213: 1407904125501995702
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_113
+  - first:
+      213: 1360502089080505615
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_114
+  - first:
+      213: 3063338243458092347
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_115
+  - first:
+      213: -1914852527762908253
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_116
+  - first:
+      213: -545248896445870232
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_117
+  - first:
+      213: -4618080525358631525
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_118
+  - first:
+      213: -896512156942596646
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_119
+  - first:
+      213: -7158626181325521554
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_120
+  - first:
+      213: -1126743853760396445
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_121
+  - first:
+      213: 1197992673780011550
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_122
+  - first:
+      213: -6078415537664388351
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_123
+  - first:
+      213: -9052889274389630187
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_124
+  - first:
+      213: 9191159203477270748
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_125
+  - first:
+      213: 9174822101830009459
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_126
+  - first:
+      213: -6523622938870127574
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_127
+  - first:
+      213: 992335368677363967
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_0
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1232
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ecc1201ee7dc870800000000000000
+      internalID: 8704753159645220377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1278
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db3e2be4a1cca00800000000000000
+      internalID: 778025760939293983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1149
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ae3ebcdf03e8b0800000000000000
+      internalID: -5124234510258493052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 1255
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96388ea6af5d72500800000000000000
+      internalID: 371500765793518441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1240
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294a5b3b83304450800000000000000
+      internalID: 6070908970784672047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1232
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf99ce7a54addb30800000000000000
+      internalID: 4313784726671957960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1248
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a0c460813c57770800000000000000
+      internalID: 8608000770740849163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1252
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18694552a351efc50800000000000000
+      internalID: 6700816635052463745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1239
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d8c854708bc440800000000000000
+      internalID: 4957197052045482342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1253
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544c1b19b3a398080800000000000000
+      internalID: -9184745937523588027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1254
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e5edf27c86c1760800000000000000
+      internalID: 7429928689965358642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1254
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a264242905e5a0800000000000000
+      internalID: -6492773236950783889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1254
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a19bad641157830800000000000000
+      internalID: 4068176834414058101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1249
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa47982e7297d1e0800000000000000
+      internalID: -2173107224638436609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1262
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253fa8fcf9fba670800000000000000
+      internalID: 8551203182392325410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_15
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1258
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a7aa6b56e5d6c0800000000000000
+      internalID: -4119133003854666129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_16
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1234
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bec3fbcea3698a0800000000000000
+      internalID: -6298782240335926489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1248
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950024e1e2a30e6d0800000000000000
+      internalID: -2963304585059237799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1248
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6270348d407ffe00800000000000000
+      internalID: 1080705913824768622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1210
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fae02ad29b9db90800000000000000
+      internalID: -7216533322240970878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_20
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1180
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2645a2c24d17aa0800000000000000
+      internalID: -6164913128739675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_21
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1240
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9782d5f1c4f7730800000000000000
+      internalID: 3998998691718920651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1192
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66734a7fc822a6c50800000000000000
+      internalID: 6659172987866199910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1232
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd54526ccbb6e60800000000000000
+      internalID: 7956660725894994794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1224
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92fb630163319d0800000000000000
+      internalID: -2804838699655812698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1197
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893b1b4428915c90800000000000000
+      internalID: -7182792649032910452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a3c5e97c991d460800000000000000
+      internalID: 7264756756559706724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1204
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c34c59632e7ac90800000000000000
+      internalID: -7158504358613336983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_28
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1202
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943fc089515d6b10800000000000000
+      internalID: 1976325256340518036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1183
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be541945bb440fd0800000000000000
+      internalID: -2376691461357543755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1195
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d795bd47156480800000000000000
+      internalID: -8906687065528739850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_31
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1173
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d588d598b1a22b50800000000000000
+      internalID: 6566989020819654102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_32
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1183
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2319bd51e44210800000000000000
+      internalID: 1316424783752276671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_33
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790e0a08334c2f70800000000000000
+      internalID: 9163773249758038385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_34
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1197
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2693a218e040f4c60800000000000000
+      internalID: 7804461139599440226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_35
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1192
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c567a3f06acb87050800000000000000
+      internalID: 5798591941645596252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1165
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eee2015d62c5c4c0800000000000000
+      internalID: -4267791297097306399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_37
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324b410f4e81174a0800000000000000
+      internalID: -6597464607561567197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1057
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5972634f38dda8ce0800000000000000
+      internalID: -1402064775164844139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1161
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1763d313e468d50800000000000000
+      internalID: 6739159865793868224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1157
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc48fffbec23ab0800000000000000
+      internalID: -5029730509798454287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1123
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0103d5c8ffa98f100800000000000000
+      internalID: 142033810624426000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2941c1093d8810c40800000000000000
+      internalID: 5476809064096470162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138de213dc22cd30800000000000000
+      internalID: 4450168666862748437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_44
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1111
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02612d85a2242e80800000000000000
+      internalID: -8204394526729477617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_45
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1117
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b289c793040752360800000000000000
+      internalID: 7144239805037844523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1084
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff8c5ac25e76dc0800000000000000
+      internalID: -3645693393410392245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1069
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b588a43fdf2c6260800000000000000
+      internalID: 7092096148909360568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1095
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ceea94f77abfe30800000000000000
+      internalID: 4538405214644792320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1075
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0108ff18ef3228070800000000000000
+      internalID: 8107081855229984784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_50
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1069
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb61424b0e95040800000000000000
+      internalID: 4636984355658840949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1059
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6f4cf2c13cc2e0800000000000000
+      internalID: -2104252212362384434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_52
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1071
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b3c7e27afac04d0800000000000000
+      internalID: -3166963305374008558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 980
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e67610245f6040800000000000000
+      internalID: 4643022237634849197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1031
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2442f6f649a5b860800000000000000
+      internalID: 7545122872985011242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1033
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8869a51c5c8dc80800000000000000
+      internalID: -8297664879190963991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1044
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a4c94a61e7b820800000000000000
+      internalID: 2934061528875574562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_57
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1039
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aad70ca939a88d0800000000000000
+      internalID: -2843297921867339192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1005
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795a2a8641010ad0800000000000000
+      internalID: -2737905695987181187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_59
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff12b3037ada97e20800000000000000
+      internalID: 3348898731506999807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 985
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873aa695d79c3cb50800000000000000
+      internalID: 6612350218118275960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 990
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f75d89b7c9b0d0800000000000000
+      internalID: -3406472043374839794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_62
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 974
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bf280e67343edd0800000000000000
+      internalID: -2458046793762276530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 960
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b8e5f3337d05a30800000000000000
+      internalID: 4202095067443137420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 952
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b77beab568bf80800000000000000
+      internalID: -8090604877082283629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_65
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 935
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581eb0a1cd45e2ac0800000000000000
+      internalID: -3878068924812893819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 860
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd8fe57aff98f170800000000000000
+      internalID: 8212489818579373514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 904
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c242847e83f3f3f0800000000000000
+      internalID: -868082509986774328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_68
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 944
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f12169f2a7e1d70800000000000000
+      internalID: 9015777848842133334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 925
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d382e883e31707d10800000000000000
+      internalID: 2121319936542255165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 900
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c589fae19c0b86b0800000000000000
+      internalID: -5293123116191873595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 890
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b01c8080d3c11b0800000000000000
+      internalID: -5684601524932506738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 894
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39da222d647bfc0800000000000000
+      internalID: -3479234318781541444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 864
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f745600dd1cdc2d70800000000000000
+      internalID: 9019826174318498943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_74
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 822
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25ca2132f1ea840800000000000000
+      internalID: 5237157652176065195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 834
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b7812ef43418e0800000000000000
+      internalID: -1723694491287177684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 840
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609d8a6861793850800000000000000
+      internalID: 6357237042288365673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 828
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3e5bf6f77c9880800000000000000
+      internalID: -8602869285521571934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 747
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c121f84f720fa8c0800000000000000
+      internalID: -3985964399491735096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 812
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb336e98668d26750800000000000000
+      internalID: 6296833163929203646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 806
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e83dde54520e9160800000000000000
+      internalID: 7034062229391358184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 796
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e53415697998670800000000000000
+      internalID: 8541524840149114521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 771
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9947309b4599730800000000000000
+      internalID: 4006326497126422976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 780
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde67d7c48d97a90800000000000000
+      internalID: -7315578296652599823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 784
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4390cf8038b200800000000000000
+      internalID: 195959977759952664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 671
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b64555d48ed650800000000000000
+      internalID: 6259586583885165171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 743
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93bbc66f2f5c4810800000000000000
+      internalID: 1750879012333007774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3975524898d4a40800000000000000
+      internalID: 5354086732668572588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_88
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 741
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3cd103ad45c5710800000000000000
+      internalID: 1683313656816583640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 693
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da03be85ee17e2a0800000000000000
+      internalID: -6708359148654621999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_90
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 685
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d99b8f9c4c6460800000000000000
+      internalID: 7236242949403170315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_91
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 679
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c159cee038b9d0800000000000000
+      internalID: -2758400969626500889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 655
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b2c34ed607b810800000000000000
+      internalID: 1780899729337661158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 645
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eba42b184f5bfa0800000000000000
+      internalID: -5785449308408332648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 612
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56e39c2af0794b0800000000000000
+      internalID: -5433857233563785771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_95
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedff27a4f0dc26b0800000000000000
+      internalID: -5319647310635860501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722030d8c546263a0800000000000000
+      internalID: -6673661349144100313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 621
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10f45a0b72186a0800000000000000
+      internalID: -6448829551776693764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 524
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90ceefedc32489f0800000000000000
+      internalID: -467209093939019622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_99
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 513
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b9e17d365e5bf0800000000000000
+      internalID: -333734500474702910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 490
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8596db6acbdcef500800000000000000
+      internalID: 432008824409123160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a8182b1dda0c40800000000000000
+      internalID: 5479435005356189116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_102
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 403
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb63c6d69cdd98400800000000000000
+      internalID: 327036305155045051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_103
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 449
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cc73da75b233d30800000000000000
+      internalID: 4409916115694111801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_104
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dad371fbf3201c0800000000000000
+      internalID: -4538995384474817165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_105
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 361
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0efcdcf24531480800000000000000
+      internalID: -8929701071852412751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_106
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 355
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13635bc1fa33c30800000000000000
+      internalID: 4338003403922092537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 291
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb760e354ceec930800000000000000
+      internalID: 4165526487501798366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_108
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfddf64fbbbfa40800000000000000
+      internalID: 5403118836484275382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_109
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 213
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79befcf3acfe197b0800000000000000
+      internalID: -5219126841212671081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 213
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29477051064537a30800000000000000
+      internalID: 4211802848167949458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bc018722c5f2e0800000000000000
+      internalID: -2092552976919121839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_112
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba96c4a8130fe9330800000000000000
+      internalID: 3719674437818935723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7a5eb751e98310800000000000000
+      internalID: 1407904125501995702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 138
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0502d7117971e210800000000000000
+      internalID: 1360502089080505615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 147
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d4034f6e9238a20800000000000000
+      internalID: 3063338243458092347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abde6575c31d65e0800000000000000
+      internalID: -1914852527762908253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_117
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 104
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f8b2d7403ee68f0800000000000000
+      internalID: -545248896445870232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_118
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9579d5da3849efb0800000000000000
+      internalID: -4618080525358631525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 133
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad50e9471f2fe83f0800000000000000
+      internalID: -896512156942596646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_120
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 118
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df7468a6377ac90800000000000000
+      internalID: -7158626181325521554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_121
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c1cb4f600d50f0800000000000000
+      internalID: -1126743853760396445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_122
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129d245dff10a010800000000000000
+      internalID: 1197992673780011550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_123
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039c48f54125aba0800000000000000
+      internalID: -6078415537664388351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_124
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 48
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ff015b2dad5280800000000000000
+      internalID: -9052889274389630187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 44
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd03355499e8d8f70800000000000000
+      internalID: 9191159203477270748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_126
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 50
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720bf06714835f70800000000000000
+      internalID: 9174822101830009459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_127
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246e00308f6775a0800000000000000
+      internalID: -6523622938870127574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_128
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 34
+        width: 61
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0121c92cb75cd00800000000000000
+      internalID: 992335368677363967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_0: 8704753159645220377
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_1: 778025760939293983
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_10: 7429928689965358642
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_100: 432008824409123160
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_101: 5479435005356189116
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_102: 327036305155045051
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_103: 4409916115694111801
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_104: -4538995384474817165
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_105: -8929701071852412751
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_106: 4338003403922092537
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_107: 4165526487501798366
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_108: 5403118836484275382
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_109: -5219126841212671081
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_11: -6492773236950783889
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_110: 4211802848167949458
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_111: -2092552976919121839
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_112: 3719674437818935723
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_113: 1407904125501995702
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_114: 1360502089080505615
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_115: 3063338243458092347
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_116: -1914852527762908253
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_117: -545248896445870232
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_118: -4618080525358631525
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_119: -896512156942596646
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_12: 4068176834414058101
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_120: -7158626181325521554
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_121: -1126743853760396445
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_122: 1197992673780011550
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_123: -6078415537664388351
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_124: -9052889274389630187
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_125: 9191159203477270748
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_126: 9174822101830009459
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_127: -6523622938870127574
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_128: 992335368677363967
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_13: -2173107224638436609
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_14: 8551203182392325410
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_15: -4119133003854666129
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_16: -6298782240335926489
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_17: -2963304585059237799
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_18: 1080705913824768622
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_19: -7216533322240970878
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_2: -5124234510258493052
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_20: -6164913128739675451
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_21: 3998998691718920651
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_22: 6659172987866199910
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_23: 7956660725894994794
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_24: -2804838699655812698
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_25: -7182792649032910452
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_26: 7264756756559706724
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_27: -7158504358613336983
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_28: 1976325256340518036
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_29: -2376691461357543755
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_3: 371500765793518441
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_30: -8906687065528739850
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_31: 6566989020819654102
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_32: 1316424783752276671
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_33: 9163773249758038385
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_34: 7804461139599440226
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_35: 5798591941645596252
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_36: -4267791297097306399
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_37: -6597464607561567197
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_38: -1402064775164844139
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_39: 6739159865793868224
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_4: 6070908970784672047
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_40: -5029730509798454287
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_41: 142033810624426000
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_42: 5476809064096470162
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_43: 4450168666862748437
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_44: -8204394526729477617
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_45: 7144239805037844523
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_46: -3645693393410392245
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_47: 7092096148909360568
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_48: 4538405214644792320
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_49: 8107081855229984784
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_5: 4313784726671957960
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_50: 4636984355658840949
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_51: -2104252212362384434
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_52: -3166963305374008558
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_53: 4643022237634849197
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_54: 7545122872985011242
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_55: -8297664879190963991
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_56: 2934061528875574562
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_57: -2843297921867339192
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_58: -2737905695987181187
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_59: 3348898731506999807
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_6: 8608000770740849163
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_60: 6612350218118275960
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_61: -3406472043374839794
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_62: -2458046793762276530
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_63: 4202095067443137420
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_64: -8090604877082283629
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_65: -3878068924812893819
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_66: 8212489818579373514
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_67: -868082509986774328
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_68: 9015777848842133334
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_69: 2121319936542255165
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_7: 6700816635052463745
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_70: -5293123116191873595
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_71: -5684601524932506738
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_72: -3479234318781541444
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_73: 9019826174318498943
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_74: 5237157652176065195
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_75: -1723694491287177684
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_76: 6357237042288365673
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_77: -8602869285521571934
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_78: -3985964399491735096
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_79: 6296833163929203646
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_8: 4957197052045482342
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_80: 7034062229391358184
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_81: 8541524840149114521
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_82: 4006326497126422976
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_83: -7315578296652599823
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_84: 195959977759952664
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_85: 6259586583885165171
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_86: 1750879012333007774
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_87: 5354086732668572588
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_88: 1683313656816583640
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_89: -6708359148654621999
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_9: -9184745937523588027
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_90: 7236242949403170315
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_91: -2758400969626500889
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_92: 1780899729337661158
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_93: -5785449308408332648
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_94: -5433857233563785771
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_95: -5319647310635860501
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_96: -6673661349144100313
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_97: -6448829551776693764
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_98: -467209093939019622
+      09_FeatherBoa_L3_FinishedFeatherBoa_0006_04_Magnifier_L1_PawprintEvidenceCard_99: -333734500474702910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

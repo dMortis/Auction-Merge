@@ -1,0 +1,312 @@
+{
+  "tool": "Built-in ImageGen",
+  "method": "Localized material edits, one object per edit. No procedural image modifications.",
+  "collections": [
+    {
+      "folder": "Skeleton",
+      "items": [
+        "TopHat",
+        "StarWand",
+        "StageCape"
+      ],
+      "states": [
+        {
+          "mask": 0,
+          "found": [],
+          "file": "Collection_01_Skeleton_NoneFound.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-dccb7b26-c580-44eb-bccf-af24adb66c58.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "3c6927d278bd368ad3588c2bb3c818c2a8c863c114bd8f1f45d7569513e0eccb",
+          "method": "NoneFound generated from current partial-state material via ImageGen"
+        },
+        {
+          "mask": 1,
+          "found": [
+            "TopHat"
+          ],
+          "file": "Collection_01_Skeleton_Found_TopHat.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-d17c94c4-1924-43d7-b84e-d3b86896190a.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "15ac670adc3918be61737aa9b19320a87ccf79b412ef06244e84e06c25ef45f3"
+        },
+        {
+          "mask": 2,
+          "found": [
+            "StarWand"
+          ],
+          "file": "Collection_01_Skeleton_Found_StarWand.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-277f8135-53b6-4390-83ec-8c777c77e673.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "d08fadf9040c5fdf74ee899798f23693923817d250950acea5341c711d1c953e"
+        },
+        {
+          "mask": 3,
+          "found": [
+            "TopHat",
+            "StarWand"
+          ],
+          "file": "Collection_01_Skeleton_Found_TopHat_StarWand.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-86c429cf-57eb-403f-a162-af3efbacfc41.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "b7b3800a9b29faf096f59043ad309db6b8359b1a6efd006de7bc4c927bbb9929"
+        },
+        {
+          "mask": 4,
+          "found": [
+            "StageCape"
+          ],
+          "file": "Collection_01_Skeleton_Found_StageCape.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-d2437c56-4182-47e3-941e-db1697d00d28.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "016d814f9b8762d766f3454ea3f33e2a70d3fb770909c9f783c174b9840c20c7"
+        },
+        {
+          "mask": 5,
+          "found": [
+            "TopHat",
+            "StageCape"
+          ],
+          "file": "Collection_01_Skeleton_Found_TopHat_StageCape.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-355ff4c4-2d33-4803-a8e5-b573aa78e542.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "99dadbc403e92d3f90574153331daf5a2f6301e0f1aef8e5b3ce08858dc9afd7"
+        },
+        {
+          "mask": 6,
+          "found": [
+            "StarWand",
+            "StageCape"
+          ],
+          "file": "Collection_01_Skeleton_Found_StarWand_StageCape.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-ebfdbf5a-33e6-4580-bdb8-de7dbdfea0f9.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "d196daa18208526becabec781201a4246549a1b4087b02b7a20d97f6e9716ff8"
+        },
+        {
+          "mask": 7,
+          "found": [
+            "TopHat",
+            "StarWand",
+            "StageCape"
+          ],
+          "file": "Collection_01_Skeleton_AllFound.png",
+          "source": "/Users/dimarychka/.codex/.chatgpt-projects/g-p-6aad6967a5b48191be018a1ebfa7feb4/Collection_Progress_States_HQ_2026-10-22/Skeleton/Collection_01_Skeleton_AllFound.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "61320952e5364197a90d385f912bb64dff5db5b3116e1d2686b329bfb591dde5"
+        }
+      ]
+    },
+    {
+      "folder": "Detective",
+      "items": [
+        "Magnifier",
+        "JeweledBone",
+        "BurglarMask"
+      ],
+      "states": [
+        {
+          "mask": 0,
+          "found": [],
+          "file": "Collection_02_Detective_NoneFound.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-18f381cf-8ebc-4e3b-b2ce-06c48e8235c7.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "6c022ba2656b2467916eaf45a9bc0c2c7656761add1dd1cbaeea6c787c34ce85",
+          "method": "NoneFound generated from current partial-state material via ImageGen"
+        },
+        {
+          "mask": 1,
+          "found": [
+            "Magnifier"
+          ],
+          "file": "Collection_02_Detective_Found_Magnifier.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-b07784a8-7e35-4b0f-aa4f-8616c0846a98.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "f663507c05583bf4ce5b54f16495f9419e2b9ca61d7e5ba45a9a4ce70ff377b6"
+        },
+        {
+          "mask": 2,
+          "found": [
+            "JeweledBone"
+          ],
+          "file": "Collection_02_Detective_Found_JeweledBone.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-1d1f058c-0aee-46ad-9e40-3661965e1c50.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "87c623a4fda28155c7c5bc52f3b6218988574d7830aeec3722c88a291d70b889"
+        },
+        {
+          "mask": 3,
+          "found": [
+            "Magnifier",
+            "JeweledBone"
+          ],
+          "file": "Collection_02_Detective_Found_Magnifier_JeweledBone.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-b9330e09-4068-4bed-824b-7cbd8032f79f.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "f5b281e0a500d66c51d7ecdf35a3326b5037658715691e772d438ad250688811"
+        },
+        {
+          "mask": 4,
+          "found": [
+            "BurglarMask"
+          ],
+          "file": "Collection_02_Detective_Found_BurglarMask.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-d98f97bb-253f-4bda-9760-5ca5a1333e14.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "d0a92c7710c2b6c3429150ef3bb30e1ea4112abae93e8776195d25d4c2cb3626"
+        },
+        {
+          "mask": 5,
+          "found": [
+            "Magnifier",
+            "BurglarMask"
+          ],
+          "file": "Collection_02_Detective_Found_Magnifier_BurglarMask.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-47c8535f-10a0-4375-bbda-718a7f226a82.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "5c6bf75b5e295b077753582cbde4c249d06dd70a9d007e66d1184abb3e046329"
+        },
+        {
+          "mask": 6,
+          "found": [
+            "JeweledBone",
+            "BurglarMask"
+          ],
+          "file": "Collection_02_Detective_Found_JeweledBone_BurglarMask.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-f1edce0a-3b43-46ca-98c9-37f58b3372c9.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "08a586f8d548fac58ef5378234b828e3707e7125b207cb9d2148421461a411e3"
+        },
+        {
+          "mask": 7,
+          "found": [
+            "Magnifier",
+            "JeweledBone",
+            "BurglarMask"
+          ],
+          "file": "Collection_02_Detective_AllFound.png",
+          "source": "/Users/dimarychka/.codex/.chatgpt-projects/g-p-6aad6967a5b48191be018a1ebfa7feb4/Collection_Progress_States_HQ_2026-10-22/Detective/Collection_02_Detective_AllFound.png",
+          "width": 1342,
+          "height": 1172,
+          "sha256": "678cd3efc83a041adc0db73badf0c27e51da80e5ceb71f9ee149ffa66b23518a"
+        }
+      ]
+    },
+    {
+      "folder": "Concert",
+      "items": [
+        "Microphone",
+        "FeatherBoa",
+        "TheatricalFan"
+      ],
+      "states": [
+        {
+          "mask": 0,
+          "found": [],
+          "file": "Collection_03_Concert_NoneFound.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-4a74f434-367a-46ff-96f3-70cefd54046c.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "a660646f7f791e17ac652febea4290a879e50ddbbb20fdfc839fba264d87b49e",
+          "method": "NoneFound generated from current partial-state material via ImageGen"
+        },
+        {
+          "mask": 1,
+          "found": [
+            "Microphone"
+          ],
+          "file": "Collection_03_Concert_Found_Microphone.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-64c7ca32-5f0c-49a6-98ad-6280a202342f.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "1e9cc8460345ff26c9c94ee0fd72630043c721651ce7b9ed32d17c4dbc0d983c"
+        },
+        {
+          "mask": 2,
+          "found": [
+            "FeatherBoa"
+          ],
+          "file": "Collection_03_Concert_Found_FeatherBoa.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-363c428d-1c3c-4661-80aa-2dc7cf75552f.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "cc9a3406e64892c133544426b6d6be1b61598ffbd6e6c3801e616a70200039e0"
+        },
+        {
+          "mask": 3,
+          "found": [
+            "Microphone",
+            "FeatherBoa"
+          ],
+          "file": "Collection_03_Concert_Found_Microphone_FeatherBoa.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-bff4f396-2720-49c9-9d31-cae3accd01e3.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "97508ba7797a1f0b9c038af4feaa366cd432e2ea510cdc0a64ab910299228a5f"
+        },
+        {
+          "mask": 4,
+          "found": [
+            "TheatricalFan"
+          ],
+          "file": "Collection_03_Concert_Found_TheatricalFan.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-041076af-2668-444c-8f01-4ca77de2b195.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "b8e2869b872a564ca5a88b4903b6e9b59e7acc74f1b71947dfd2184cce859295"
+        },
+        {
+          "mask": 5,
+          "found": [
+            "Microphone",
+            "TheatricalFan"
+          ],
+          "file": "Collection_03_Concert_Found_Microphone_TheatricalFan.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-29e29b54-dc3f-4d9e-906a-7afb4946ea48.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "2c1d0cb76dbbd10b17b548928bba571edec45712e933d72829361424452f8256"
+        },
+        {
+          "mask": 6,
+          "found": [
+            "FeatherBoa",
+            "TheatricalFan"
+          ],
+          "file": "Collection_03_Concert_Found_FeatherBoa_TheatricalFan.png",
+          "source": "/Users/dimarychka/.codex/generated_images/01a15746-c55d-71d1-bf21-cba15f13e5dc/exec-b60f23e0-853f-4265-97f9-ddd4db407439.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "559e9cdf5b57a554ee1073c22ab77b3275add89b29c0d0f8c01ad1aacff3fd88"
+        },
+        {
+          "mask": 7,
+          "found": [
+            "Microphone",
+            "FeatherBoa",
+            "TheatricalFan"
+          ],
+          "file": "Collection_03_Concert_AllFound.png",
+          "source": "/Users/dimarychka/.codex/.chatgpt-projects/g-p-6aad6967a5b48191be018a1ebfa7feb4/Collection_Progress_States_HQ_2026-10-22/Concert/Collection_03_Concert_AllFound.png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "58e965e0c8bf571afff2b76061dba87085451e96d0e67142419a9a988e862997"
+        }
+      ]
+    }
+  ]
+}

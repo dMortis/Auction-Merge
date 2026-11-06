@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 47e608a15c1e92a4c8fe4d9c1438d695
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2070045749752639092
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_0
+  - first:
+      213: -3232203192655272210
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_1
+  - first:
+      213: -6118664044744366459
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_2
+  - first:
+      213: 5360070076860149236
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_3
+  - first:
+      213: 8489807946710311520
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_4
+  - first:
+      213: -307929500260703334
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_5
+  - first:
+      213: 519969965716837024
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 1291
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81df21bb58b543e0800000000000000
+      internalID: -2070045749752639092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_1
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1291
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee626eb3258e423d0800000000000000
+      internalID: -3232203192655272210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1277
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ae092873261ba0800000000000000
+      internalID: -6118664044744366459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd2376065bc26a40800000000000000
+      internalID: 5360070076860149236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1267
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e4fab85bd1d570800000000000000
+      internalID: 8489807946710311520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_5
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 138
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e81140c30abbf0800000000000000
+      internalID: -307929500260703334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 88
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a29c6ccded473700800000000000000
+      internalID: 519969965716837024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_0: -2070045749752639092
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_1: -3232203192655272210
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_2: -6118664044744366459
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_3: 5360070076860149236
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_4: 8489807946710311520
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_5: -307929500260703334
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_08_Fan_L3_FinishedTheatricalFan_6: 519969965716837024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

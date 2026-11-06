@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 8f7ee18119a25a24193a5034f6e28ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4934364355254975351
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_0
+  - first:
+      213: -4616799574947826217
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_1
+  - first:
+      213: -7957888726084874310
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_2
+  - first:
+      213: -8567317204602531761
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_3
+  - first:
+      213: 4945465624781119326
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_4
+  - first:
+      213: 2782441949196023426
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_5
+  - first:
+      213: 3075393137373223143
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_6
+  - first:
+      213: 9038879376234384678
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_7
+  - first:
+      213: 2359536461687342416
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_8
+  - first:
+      213: 496425715737527834
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_9
+  - first:
+      213: -7655981579854546879
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_10
+  - first:
+      213: -3634401494010137735
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_11
+  - first:
+      213: 5608229138268995117
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_12
+  - first:
+      213: 1199638504142872506
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_13
+  - first:
+      213: -3405813695598244165
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_14
+  - first:
+      213: 8781420302260763182
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_15
+  - first:
+      213: 469619265191201541
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_16
+  - first:
+      213: 7252309750140396518
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_17
+  - first:
+      213: 7963663359379495765
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_18
+  - first:
+      213: -5411652683813141858
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_19
+  - first:
+      213: 920775396003229281
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_20
+  - first:
+      213: -2072242889403236590
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_21
+  - first:
+      213: -5120686143649519322
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_22
+  - first:
+      213: -2053641869900542339
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_23
+  - first:
+      213: 6980176582054675852
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_24
+  - first:
+      213: -1921974734787140475
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_25
+  - first:
+      213: -2284222402288198199
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_26
+  - first:
+      213: -3361211677744532475
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_27
+  - first:
+      213: 3068128443496309430
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_28
+  - first:
+      213: -5564328249457915554
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_29
+  - first:
+      213: 5575055727418975914
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_30
+  - first:
+      213: -6435810315412091064
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_31
+  - first:
+      213: -3300178023622544933
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_32
+  - first:
+      213: -1432356980199247424
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_33
+  - first:
+      213: -7964849668179833168
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_34
+  - first:
+      213: -709162109780179485
+    second: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1149
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b725bdc326a7440800000000000000
+      internalID: 4934364355254975351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1254
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d57f085f35ddefb0800000000000000
+      internalID: -4616799574947826217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1235
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf00a7cd56ef8190800000000000000
+      internalID: -7957888726084874310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1246
+        width: 94
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40d29dd466ca1980800000000000000
+      internalID: -8567317204602531761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1159
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fdbf598c2d1a440800000000000000
+      internalID: 4945465624781119326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1242
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28679f5f5383d9620800000000000000
+      internalID: 2782441949196023426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e81ec9a3cdfdaa20800000000000000
+      internalID: 3075393137373223143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1181
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0e0417ec807d70800000000000000
+      internalID: 9038879376234384678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1151
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055c47919e1ceb020800000000000000
+      internalID: 2359536461687342416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1159
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1687ebee88a3e600800000000000000
+      internalID: 496425715737527834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1163
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f5d5f05d70c590800000000000000
+      internalID: -7655981579854546879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1177
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973706ad813009dc0800000000000000
+      internalID: -3634401494010137735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1151
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb48500be64dd40800000000000000
+      internalID: 5608229138268995117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf11521dd8f5a010800000000000000
+      internalID: 1199638504142872506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 1248
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbec4b61d7e1cb0d0800000000000000
+      internalID: -3405813695598244165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1149
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af7ab2d3fddd970800000000000000
+      internalID: 8781420302260763182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1153
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc669cb3c648600800000000000000
+      internalID: 469619265191201541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3683a1b4165a460800000000000000
+      internalID: 7252309750140396518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bdb9ec1ad948e60800000000000000
+      internalID: 7963663359379495765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 125
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9247856e82f5e4b0800000000000000
+      internalID: -5411652683813141858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_20
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 113
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e21bc185047cc00800000000000000
+      internalID: 920775396003229281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_21
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 116
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f7ac0421aed33e0800000000000000
+      internalID: -2072242889403236590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_22
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 96
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6296189351bafe8b0800000000000000
+      internalID: -5120686143649519322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 105
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e85b8999fff73e0800000000000000
+      internalID: -2053641869900542339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 70
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858eda6e919ed060800000000000000
+      internalID: 6980176582054675852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_25
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584acb96926c355e0800000000000000
+      internalID: -1921974734787140475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_26
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 72
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5f93d3dfcc40e0800000000000000
+      internalID: -2284222402288198199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504742d99c39a51d0800000000000000
+      internalID: -3361211677744532475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 74
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2aedf409e249a20800000000000000
+      internalID: 3068128443496309430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59c36d20f887c2b0800000000000000
+      internalID: -5564328249457915554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_30
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 77
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a0db65a39e5d40800000000000000
+      internalID: 5575055727418975914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 88
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f4114dd986fa6a0800000000000000
+      internalID: -6435810315412091064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd17d6692996332d0800000000000000
+      internalID: -3300178023622544933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 72
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13cab5aee3f1ce0800000000000000
+      internalID: -1432356980199247424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 48
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec0c62d6b277190800000000000000
+      internalID: -7964849668179833168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_35
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5c26681dc8826f0800000000000000
+      internalID: -709162109780179485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_0: 4934364355254975351
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_1: -4616799574947826217
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_10: -7655981579854546879
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_11: -3634401494010137735
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_12: 5608229138268995117
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_13: 1199638504142872506
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_14: -3405813695598244165
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_15: 8781420302260763182
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_16: 469619265191201541
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_17: 7252309750140396518
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_18: 7963663359379495765
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_19: -5411652683813141858
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_2: -7957888726084874310
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_20: 920775396003229281
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_21: -2072242889403236590
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_22: -5120686143649519322
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_23: -2053641869900542339
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_24: 6980176582054675852
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_25: -1921974734787140475
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_26: -2284222402288198199
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_27: -3361211677744532475
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_28: 3068128443496309430
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_29: -5564328249457915554
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_3: -8567317204602531761
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_30: 5575055727418975914
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_31: -6435810315412091064
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_32: -3300178023622544933
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_33: -1432356980199247424
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_34: -7964849668179833168
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_35: -709162109780179485
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_4: 4945465624781119326
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_5: 2782441949196023426
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_6: 3075393137373223143
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_7: 9038879376234384678
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_8: 2359536461687342416
+      09_FeatherBoa_L3_FinishedFeatherBoa_0002_05_JeweledBone_L2_EvidenceChest_9: 496425715737527834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

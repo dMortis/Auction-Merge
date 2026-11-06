@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{{ PRODUCT_NAME }}}</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: #15151a; }
+    body { display: flex; align-items: center; justify-content: center; }
+    #game { position: relative; width: 450px; height: 800px; overflow: hidden; background: #15151a; }
+    #unity-canvas { display: block; width: 100%; height: 100%; outline: none; touch-action: none; }
+    #loading { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px; padding: 28px; background: #15151a; color: #f5f5f5; text-align: center; font: 16px/1.5 Arial, sans-serif; }
+    #loading[hidden] { display: none; }
+    progress { width: 65%; height: 8px; accent-color: #e6b464; }
+    #retry { padding: 10px 20px; border: 0; border-radius: 6px; background: #e6b464; color: #15151a; font: inherit; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <main id="game">
+    <canvas id="unity-canvas" width="{{{ WIDTH }}}" height="{{{ HEIGHT }}}" tabindex="0" aria-label="Storage Auction 3 playable"></canvas>
+    <div id="loading" role="status">
+      <span id="loading-text">Loading Storage Auction 3...</span>
+      <progress id="progress" max="1" value="0"></progress>
+      <button id="retry" hidden>Try again</button>
+    </div>
+  </main>
+  <script>
+    const game = document.getElementById('game');
+    const canvas = document.getElementById('unity-canvas');
+    const loading = document.getElementById('loading');
+    const progress = document.getElementById('progress');
+    const retry = document.getElementById('retry');
+
+    // Keep the Unity viewport at exactly 9:16, including itch.io fullscreen.
+    function fitPortrait() {
+      const height = Math.min(window.innerHeight, window.innerWidth * 16 / 9);
+      game.style.width = (height * 9 / 16) + 'px';
+      game.style.height = height + 'px';
+    }
+    window.addEventListener('resize', fitPortrait);
+    fitPortrait();
+    canvas.addEventListener('pointerdown', () => canvas.focus());
+    retry.addEventListener('click', () => window.location.reload());
+
+    function showError(message) {
+      console.error(message);
+      loading.hidden = false;
+      document.getElementById('loading-text').textContent = 'The game could not load. Please try again.';
+      progress.hidden = true;
+      retry.hidden = false;
+    }
+
+    const config = {
+      arguments: [],
+#if PROGRESSIVE_ASSET_LOADING
+      primaryDataUrls: {{{ JSON.stringify(PRIMARY_DATA_FILES) }}},
+      secondaryDataUrls: {{{ JSON.stringify(SECONDARY_DATA_FILES) }}},
+#else
+      dataUrl: 'Build/{{{ DATA_FILENAME }}}',
+#endif
+      frameworkUrl: 'Build/{{{ FRAMEWORK_FILENAME }}}',
+#if USE_WASM
+      codeUrl: 'Build/{{{ CODE_FILENAME }}}',
+#endif
+#if SYMBOLS_FILENAME
+      symbolsUrl: 'Build/{{{ SYMBOLS_FILENAME }}}',
+#endif
+      streamingAssetsUrl: 'StreamingAssets',
+      companyName: {{{ JSON.stringify(COMPANY_NAME) }}},
+      productName: {{{ JSON.stringify(PRODUCT_NAME) }}},
+      productVersion: {{{ JSON.stringify(PRODUCT_VERSION) }}},
+      matchWebGLToCanvasSize: true,
+      devicePixelRatio: Math.min(window.devicePixelRatio || 1, 2),
+      showBanner: (message, type) => {
+        if (type === 'error') showError(message);
+        else console.warn(message);
+      }
+    };
+    const loader = document.createElement('script');
+    loader.src = 'Build/{{{ LOADER_FILENAME }}}';
+    loader.onerror = () => showError('Could not download the game loader.');
+    loader.onload = () => {
+      createUnityInstance(canvas, config, value => { progress.value = value; })
+        .then(instance => { window.unityInstance = instance; loading.hidden = true; })
+        .catch(showError);
+    };
+    document.body.appendChild(loader);
+  </script>
+</body>
+</html>
