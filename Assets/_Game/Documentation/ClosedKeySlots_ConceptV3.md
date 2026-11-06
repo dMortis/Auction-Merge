@@ -2,9 +2,9 @@
 
 > Историческая версия с логикой. По следующему запросу пользователя все пользовательские скрипты и компоненты удалены из активного проекта. Актуальное состояние описано в `README_VisualOnly.md`; поля Found Count и компонента Collection Reward View больше нет.
 
-Референс: `F:/Playable Ads/Storage Auction 3/Storage_Auction_3_Concept_Collections_Progress_v3_ClosedKeySlots.png`.
+Референс: `F:/Playable Ads/Auction Merge/Auction_Merge_Concept_Collections_Progress_v3_ClosedKeySlots.png`.
 
-В сцене `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity` собраны компактные деревянные ниши с золотой рамкой, короткие ключи и гладкие круглые точки. Показательный прогресс совпадает с концептом: синяя коллекция 3/3, зелёная 2/3, красная 1/3. Иллюстрации коллекций остаются отдельными Image и заменяются независимо.
+В сцене `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity` собраны компактные деревянные ниши с золотой рамкой, короткие ключи и гладкие круглые точки. Показательный прогресс совпадает с концептом: синяя коллекция 3/3, зелёная 2/3, красная 1/3. Иллюстрации коллекций остаются отдельными Image и заменяются независимо.
 
 ## Готовые элементы
 
@@ -16,7 +16,7 @@
 - Точки: `Assets/_Game/Art/UI/Collections/Rewards/Dots/`.
 - Компактные ключи: `Assets/_Game/Art/Items/LocksAndKeys/Key_Blue.png`, `Key_Green.png`, `Key_Red.png`.
 
-Исходные PNG также сохранены в `F:/Playable Ads/Storage Auction 3/UI/Collections/`, `UI/CollectionRewards/` и `Locks_Keys_Icons/`.
+Исходные PNG также сохранены в `F:/Playable Ads/Auction Merge/UI/Collections/`, `UI/CollectionRewards/` и `Locks_Keys_Icons/`.
 
 ## Как переключать состояние
 
@@ -34,6 +34,6 @@
 
 Проверены все четыре значения прогресса для всех трёх цветов: видимость ключа, закрытой и открытой ниши, заполнение точек и разрешение ввода. В Play Mode проверены переход 2/3 → 3/3, завершение проявления, появление руки и повторное закрытие при возврате к 2/3. Ошибок и предупреждений Unity нет.
 
-Предыдущие PNG, их настройки и префабы сохранены в `F:/Unity Projects/Storage Auction 3/_Archive/ClosedKeySlots_ConceptV3_20261027/`. Сцена до изменений: `Assets/_Game/Scenes/Backups/BeforeClosedKeySlots_20261027_020207.unity`.
+Предыдущие PNG, их настройки и префабы сохранены в `F:/Unity Projects/Auction Merge/_Archive/ClosedKeySlots_ConceptV3_20261027/`. Сцена до изменений: `Assets/_Game/Scenes/Backups/BeforeClosedKeySlots_20261027_020207.unity`.
 
-Художественные задания для встроенного ImageGen: `F:/Playable Ads/Storage Auction 3/UI/CollectionRewards/ConceptV3_AssetPrompts.md`.
+Художественные задания для встроенного ImageGen: `F:/Playable Ads/Auction Merge/UI/CollectionRewards/ConceptV3_AssetPrompts.md`.

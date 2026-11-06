@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace StorageAuction3
+namespace AuctionMerge
 {
     [DisallowMultipleComponent]
     public sealed class MergeDragSource : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerDownHandler

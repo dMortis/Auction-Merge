@@ -5,11 +5,11 @@
 ## Что обновлено
 
 - Открытые ниши трёх цветов: внутреннее свечение, мягкие световые струи и небольшие искры по концепту V3. Ключ остаётся отдельным спрайтом.
-- `Assets/_Game/Art/Backgrounds/Storage_Auction_3_Background.png`: переработанный фон с более связной геометрией предметов, аккуратными контурами и согласованным освещением. Доска и сетка пустых ячеек 4×5 сохранены.
+- `Assets/_Game/Art/Backgrounds/Auction_Merge_Background.png`: переработанный фон с более связной геометрией предметов, аккуратными контурами и согласованным освещением. Доска и сетка пустых ячеек 4×5 сохранены.
 - Из основной сцены убраны 6 пользовательских компонентов. Из 12 префабов награды убраны компоненты управления состоянием. В `Assets` больше нет файлов C#.
 - Штатные компоненты Unity UI сохранены. Общий фон покрывает экран через Aspect Ratio Fitter / Envelope Parent. Карточки размещены в CollectionsLayoutRegion и масштабируются через Fit In Parent.
 
-Сцена: `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity`.
+Сцена: `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity`.
 
 Группа карточек: `Assets/_Game/Prefabs/UI/Collections/Collections_ConceptV3.prefab`.
 
@@ -21,4 +21,4 @@
 
 Проверка: 0 пользовательских C# в Assets, 0 активных ссылок на GUID удалённых скриптов, 0 Missing Script в сцене и префабах. Компиляция завершена без ошибок.
 
-Изображения редактировались встроенным ImageGen. Задания: `F:/Playable Ads/Storage Auction 3/UI/CollectionRewards/VisualOnly_ArtRefresh_Prompts.md`.
+Изображения редактировались встроенным ImageGen. Задания: `F:/Playable Ads/Auction Merge/UI/CollectionRewards/VisualOnly_ArtRefresh_Prompts.md`.

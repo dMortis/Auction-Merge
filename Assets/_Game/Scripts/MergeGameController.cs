@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace StorageAuction3
+namespace AuctionMerge
 {
     [DisallowMultipleComponent]
     public sealed class MergeGameController : MonoBehaviour

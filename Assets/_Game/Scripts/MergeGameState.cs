@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace StorageAuction3
+namespace AuctionMerge
 {
     // Pure rules: no scene objects, animation timing or input dependencies.
     public sealed class MergeGameState

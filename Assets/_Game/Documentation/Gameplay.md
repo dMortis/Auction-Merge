@@ -1,6 +1,6 @@
 # Merge gameplay
 
-Scene: `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity`.
+Scene: `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity`.
 Press Play to start a fresh session. No progress is persisted between sessions.
 
 ## Scene and configuration

@@ -362,7 +362,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0f9bd141562248759971476fe59a2e42, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StorageAuction3.ResponsiveBoardBackground
+  m_EditorClassIdentifier: Assembly-CSharp::AuctionMerge.ResponsiveBoardBackground
   boardNormalizedWidth: 0.785
   boardNormalizedHeight: 0.51
   boardNormalizedCenter: {x: 0.5, y: 0.526}
@@ -3781,7 +3781,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 982935b5914224c4a94336e872b12b1d, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StorageAuction3.MergeGameController
+  m_EditorClassIdentifier: Assembly-CSharp::AuctionMerge.MergeGameController
   canvas: {fileID: 1002}
   cells:
   - rect: {fileID: 1048982483}

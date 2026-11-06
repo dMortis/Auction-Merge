@@ -1,10 +1,10 @@
-# Storage Auction 3 — playable ad scene
+# Auction Merge — playable ad scene
 
-A portrait Unity scene based on `Art/Backgrounds/Storage_Auction_3_Background.png`. The expanded room includes an empty 4×5 board and generous scenery beyond it. Balance and Collections are separate UI elements and are absent from this background. Tapping any board tile gives it a short gold highlight.
+A portrait Unity scene based on `Art/Backgrounds/Auction_Merge_Background.png`. The expanded room includes an empty 4×5 board and generous scenery beyond it. Balance and Collections are separate UI elements and are absent from this background. Tapping any board tile gives it a short gold highlight.
 
 ## Open the scene
 
-Open the project in Unity 6.6.3f1 and open `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity`. The scene is included in Build Settings. To regenerate the scene and apply the portrait import settings, use **Storage Auction 3 → Build playable ad scene** from the Unity menu.
+Open the project in Unity 6.6.3f1 and open `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity`. The scene is included in Build Settings. To regenerate the scene and apply the portrait import settings, use **Auction Merge → Build playable ad scene** from the Unity menu.
 
 ## Project layout
 
@@ -32,4 +32,4 @@ The background PNG is 971×1620 and the card PNG is 997×1578, at the image gene
 
 ## Source artwork
 
-The source files were copied from `F:\Playable Ads\Storage Auction 3` into this project's `Assets/_Game/Art` tree. The high-quality progress illustrations are full-screen character renders on transparency; the progress-state sprite sheets are preserved separately with their source slicing notes.
+The source files were copied from `F:\Playable Ads\Auction Merge` into this project's `Assets/_Game/Art` tree. The high-quality progress illustrations are full-screen character renders on transparency; the progress-state sprite sheets are preserved separately with their source slicing notes.

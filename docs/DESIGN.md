@@ -1,4 +1,4 @@
-# Storage Auction 3 — design breakdown
+# Auction Merge — design breakdown
 
 ## Intent and contribution
 

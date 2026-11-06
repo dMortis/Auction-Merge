@@ -26,7 +26,7 @@ Created using the built-in image generation tool, one generation per PNG. All si
 
 Project folder: Assets/_Game/Art/Items/LocksAndKeys
 
-Source folder: F:\Playable Ads\Storage Auction 3\Locks_Keys_Icons
+Source folder: F:\Playable Ads\Auction Merge\Locks_Keys_Icons
 
 | Color | Lock | Key |
 | --- | --- | --- |

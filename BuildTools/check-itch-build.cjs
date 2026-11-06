@@ -4,8 +4,8 @@ const path = require('node:path');
 const { chromium } = require('C:/Users/dimag/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 
 async function main() {
-  const root = 'F:/Playable Ads/Storage Auction 3/itchio/StorageAuction3-WebGL';
-  const qa = 'F:/Playable Ads/Storage Auction 3/itchio/qa';
+  const root = path.resolve(process.argv[2] || path.join(__dirname, '..', 'Build', 'WebGL'));
+  const qa = path.resolve(process.argv[3] || path.join(__dirname, '..', 'work', 'qa'));
   await fs.mkdir(qa, { recursive:true });
   const server = http.createServer(async (req,res) => {
     try {

@@ -3,7 +3,7 @@
 ## Asset
 
 - Unity asset: `Assets/_Game/Art/Items/Concert/09_FeatherBoa_L3_FinishedFeatherBoa.png`
-- Source mirror: `F:\Playable Ads\Storage Auction 3\Concert_Icons\09_FeatherBoa_L3_FinishedFeatherBoa.png`
+- Source mirror: `F:\Playable Ads\Auction Merge\Concert_Icons\09_FeatherBoa_L3_FinishedFeatherBoa.png`
 - Native size: 1254 × 1254 px, RGBA transparent PNG.
 - The Unity `.meta` file and asset GUID were preserved when replacing the image.
 

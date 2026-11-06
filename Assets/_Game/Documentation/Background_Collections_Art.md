@@ -1,10 +1,10 @@
 # Background and Collections artwork
 
-Created with the built-in image generation tool. Final PNGs are copied directly from its native output, without resampling. The original concept remains in Art/Concept. The previous background containing UI is archived in the source folder at Backgrounds/Archive/Storage_Auction_3_Background_WithUI.png.
+Created with the built-in image generation tool. Final PNGs are copied directly from its native output, without resampling. The original concept remains in Art/Concept. The previous background containing UI is archived in the source folder at Backgrounds/Archive/Auction_Merge_Background_WithUI.png.
 
 ## Deliverables
 
-- Art/Backgrounds/Storage_Auction_3_Background.png — 971×1620. Single continuous room, expanded around an empty front-facing 4×5 board. No Balance or Collections interface. ResponsiveBoardBackground keeps the board large on the phone and covers the viewport without a duplicated edge-filling layer. The previous trapezoidal board version is archived in the source folder as Backgrounds/Archive/Storage_Auction_3_Background_Expanded_Perspective.png.
+- Art/Backgrounds/Auction_Merge_Background.png — 971×1620. Single continuous room, expanded around an empty front-facing 4×5 board. No Balance or Collections interface. ResponsiveBoardBackground keeps the board large on the phone and covers the viewport without a duplicated edge-filling layer. The previous trapezoidal board version is archived in the source folder as Backgrounds/Archive/Auction_Merge_Background_Expanded_Perspective.png.
 - Art/UI/Collections/CollectionCard_Background.png — 997×1578. Empty reusable parchment card with ornate gold frame and blank lower plaque. Transparency outside the frame; no characters, progress indicators or text.
 - Prefabs/UI/Collections/Collections_Background.prefab — three empty card backgrounds. Place under the UI safe-area container. Artwork and labels can be added as children independently.
 

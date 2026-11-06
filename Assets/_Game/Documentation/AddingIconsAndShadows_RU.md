@@ -1,6 +1,6 @@
 # Как добавлять иконки и тени
 
-Сцена: Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity.
+Сцена: Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity.
 
 ## Иконка на доске
 
@@ -38,7 +38,7 @@ Canvas → Safe Area → Collections содержит три CollectionCard_Back
 
 ResponsiveBoardBackground размещает ряд под ножками доски, сохраняет пропорции карточек и уменьшает его при нехватке вертикального места. На коротких экранах он также ограничивает высоту доски, оставляя место для ряда. Background Content должен иметь Local Scale = 1: адаптацией размеров занимается компонент.
 
-Меню Storage Auction 3 → Set up board icons and collections повторно настраивает контейнеры и привязки в открытой сцене. Build playable ad scene полностью создаёт сцену заново; для обычного добавления иконок используйте готовую Hierarchy и BoardIcon.prefab.
+Меню Auction Merge → Set up board icons and collections повторно настраивает контейнеры и привязки в открытой сцене. Build playable ad scene полностью создаёт сцену заново; для обычного добавления иконок используйте готовую Hierarchy и BoardIcon.prefab.
 
 ## Документация Unity
 

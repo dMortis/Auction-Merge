@@ -1,6 +1,6 @@
 # Награда коллекции: точки и ключ
 
-Обновлённый макет: `F:/Playable Ads/Storage Auction 3/Storage_Auction_3_Concept_Collections_Progress_v2.png`.
+Обновлённый макет: `F:/Playable Ads/Auction Merge/Auction_Merge_Concept_Collections_Progress_v2.png`.
 
 Три точки расположены над нишей, ключ целиком находится внутри нижней золотой рамки карточки. Голубой, зелёный и красный ключи имеют одну форму головки и одинаковые пропорции.
 
@@ -17,7 +17,7 @@
 
 ## Размещение в сцене
 
-Сцена: `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity`.
+Сцена: `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity`.
 
 Новые блоки находятся в `Canvas / Safe Area / Collections / Collection01–03`. Состояния при установке соответствуют уже выбранным иллюстрациям: Skeleton State_06 → 2/3, Detective State_07 → 3/3, Concert State_03 → 1/3. Рука указывает на готовый зелёный ключ.
 
@@ -32,4 +32,4 @@
 - Сцена перед выравниванием: `Assets/_Game/Scenes/Backups/BeforeRewardInsetAlign_20261027_005245.unity`.
 - Префабы перед выравниванием: `_Archive/CollectionRewards_InsetAlign_20261027_005245/`.
 
-Изображения созданы встроенным ImageGen. Параметры художественного задания сохранены рядом с исходниками: `F:/Playable Ads/Storage Auction 3/UI/CollectionRewards/PROMPTS.md`.
+Изображения созданы встроенным ImageGen. Параметры художественного задания сохранены рядом с исходниками: `F:/Playable Ads/Auction Merge/UI/CollectionRewards/PROMPTS.md`.

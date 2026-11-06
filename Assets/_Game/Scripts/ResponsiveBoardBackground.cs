@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace StorageAuction3
+namespace AuctionMerge
 {
     [ExecuteAlways]
     [DisallowMultipleComponent]

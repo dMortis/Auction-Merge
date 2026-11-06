@@ -1,4 +1,4 @@
-# Storage Auction 3
+# Auction Merge
 ### Portrait merge prototype · Unity · Game Design
 
 Combine matching items, complete character collections and use earned keys to reveal the next stage. A 4 × 5 board and three collection cards keep the next action and reward in view.
@@ -25,7 +25,7 @@ The opening starts with part of the first collection already complete. Contextua
 
 - **Editor:** Unity **6000.6.3f1**, as recorded in `ProjectSettings/ProjectVersion.txt`.
 - Add this repository folder in Unity Hub and allow packages and assets to import.
-- Open `Assets/_Game/Scenes/StorageAuction3_PlayableAd.unity` and press Play.
+- Open `Assets/_Game/Scenes/AuctionMerge_PlayableAd.unity` and press Play.
 - Use the mouse to drag items and keys; the project uses UI pointer events.
 - Review in a portrait Game view; the layout uses a 1080 × 1920 reference.
 - With Git LFS installed, run `git lfs pull` after cloning to retrieve source artwork.

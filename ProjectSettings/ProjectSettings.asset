@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Storage Auction 3
+  productName: Auction Merge
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -741,14 +741,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Storage Auction 3
+  metroPackageName: Auction Merge
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Storage Auction 3
+  metroApplicationDescription: Auction Merge
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -822,7 +822,7 @@ PlayerSettings:
   cloudProjectId: d4e6ce6e-bac3-4fe2-abd1-b90281dc99e9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Storage Auction 3
+  projectName: Auction Merge
   organizationId: bitcypher
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
